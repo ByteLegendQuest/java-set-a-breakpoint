@@ -1,7 +1,7 @@
 <details open='true'>
 <summary>English</summary>
 
-### Learn Java Debugger
+## Learn Java Debugger
 
 Debugger is a very important skill, which can greatly improve your productivity.
 
@@ -17,7 +17,7 @@ To complete this challenge, you need:
 <details>
 <summary>简体中文</summary>
 
-### 学习使用Java的<ruby>调试器<rt>Debugger</rt></ruby>
+## 学习使用Java的<ruby>调试器<rt>Debugger</rt></ruby>
 
 使用<ruby>调试器<rt>Debugger</rt></ruby>是非常重要的技能，能让你的开发过程如虎添翼。
 
@@ -32,7 +32,8 @@ To complete this challenge, you need:
 <details>
 <summary>繁體中文</summary>
 
-### 學習 Java 調試器
+學習 Java 調試器
+-----------
 
 調試器是一項非常重要的技能，它可以大大提高你的生產力。
 
@@ -46,7 +47,8 @@ To complete this challenge, you need:
 <details>
 <summary>Español</summary>
 
-### Aprenda el depurador de Java
+Aprenda el depurador de Java
+----------------------------
 
 El depurador es una habilidad muy importante, que puede mejorar en gran medida su productividad.
 
@@ -60,7 +62,8 @@ Para completar este desafío, necesitas:
 <details>
 <summary>العربية</summary>
 
-### تعلم جافا المصحح
+تعلم جافا المصحح
+----------------
 
 يعد المصحح مهارة مهمة للغاية ، يمكن أن تحسن إنتاجيتك بشكل كبير.
 
@@ -74,7 +77,8 @@ Para completar este desafío, necesitas:
 <details>
 <summary>Português</summary>
 
-### Aprenda Java Debugger
+Aprenda Java Debugger
+---------------------
 
 O depurador é uma habilidade muito importante, que pode melhorar muito sua produtividade.
 
@@ -88,11 +92,12 @@ Para completar este desafio, você precisa:
 <details>
 <summary>Bahasa Indonesia</summary>
 
-### Pelajari Java Debugger
+Pelajari Java Debugger
+----------------------
 
 Debugger adalah keterampilan yang sangat penting, yang dapat sangat meningkatkan produktivitas Anda.
 
-Untuk menyelesaikan tantangan ini, Anda memerlukan:
+Untuk menyelesaikan tantangan ini, Anda perlu:
 
 -   Kloning [repo ini: https://github.com/ByteLegendQuest/Java-set-a-breakpoint](https://github.com/ByteLegendQuest/java-set-a-breakpoint) dengan klien `git` .
 -   Tetapkan breakpoint dalam metode `d()` dari [src/main/Java/com/bytelegend/Main.java](https://github.com/ByteLegendQuest/java-set-a-breakpoint/blob/main/src/main/java/com/bytelegend/Main.java) dan tangkap nilai variabel lokal `result` , yang merupakan jawaban dari tantangan ini. Masukkan ke dalam kotak input dan Anda dapat membuka peti ini.
@@ -102,7 +107,8 @@ Untuk menyelesaikan tantangan ini, Anda memerlukan:
 <details>
 <summary>Français</summary>
 
-### Apprendre le débogueur Java
+Apprendre le débogueur Java
+---------------------------
 
 Le débogueur est une compétence très importante, qui peut grandement améliorer votre productivité.
 
@@ -116,7 +122,8 @@ Pour relever ce défi, il vous faut :
 <details>
 <summary>日本語</summary>
 
-### Javaデバッガーを学ぶ
+Javaデバッガーを学ぶ
+------------
 
 デバッガーは非常に重要なスキルであり、生産性を大幅に向上させることができます。
 
@@ -130,7 +137,8 @@ Pour relever ce défi, il vous faut :
 <details>
 <summary>Русский</summary>
 
-### Изучите отладчик Java
+Изучите отладчик Java
+---------------------
 
 Отладчик — очень важный навык, который может значительно повысить вашу производительность.
 
@@ -144,7 +152,8 @@ Pour relever ce défi, il vous faut :
 <details>
 <summary>Deutsch</summary>
 
-### Lernen Sie den Java-Debugger
+Lernen Sie den Java-Debugger
+----------------------------
 
 Debugger ist eine sehr wichtige Fähigkeit, die Ihre Produktivität erheblich verbessern kann.
 
@@ -158,7 +167,8 @@ Um diese Herausforderung abzuschließen, benötigen Sie:
 <details>
 <summary>한국어</summary>
 
-### 자바 디버거 배우기
+자바 디버거 배우기
+----------
 
 디버거는 생산성을 크게 향상시킬 수 있는 매우 중요한 기술입니다.
 
@@ -172,7 +182,8 @@ Um diese Herausforderung abzuschließen, benötigen Sie:
 <details>
 <summary>Italiano</summary>
 
-### Impara Java Debugger
+Impara Java Debugger
+--------------------
 
 Il debugger è un'abilità molto importante, che può migliorare notevolmente la tua produttività.
 
